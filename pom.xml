@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   ~ Copyright 2014 the original author or authors.
   ~
@@ -22,7 +22,7 @@
 
   <properties>
     <!-- project version -->
-    <revision>2.6.2-SNAPSHOT</revision>
+    <revision>2.7.0</revision>
     <!-- default settings -->
     <java.version>1.8</java.version>
     <maven.compiler.source>${java.version}</maven.compiler.source>
