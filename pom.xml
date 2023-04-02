@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   ~ Copyright 2014 the original author or authors.
   ~
@@ -39,7 +39,7 @@
     <!-- spring versions -->
     <spring-boot.version>2.6.7</spring-boot.version>
     <spring-cloud.version>2021.0.2</spring-cloud.version>
-    <spring-doc.version>1.6.11</spring-doc.version>
+    <spring-doc.version>1.7.0</spring-doc.version>
 
     <!-- dependency versions -->
     <unleash.version>5.1.0</unleash.version>
